@@ -2,5 +2,5 @@ conda install pytorch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 pytorch-cuda=
 pip install -U onnx-simplifier --user
 pip install onnx==1.16.2
 pip install onnxruntime==1.17.0
-opencv
-tqdm
+pip install opencv-python
+pip install tqdm
