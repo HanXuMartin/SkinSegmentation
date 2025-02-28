@@ -29,6 +29,8 @@ python test.py --config configs\unet_cfg.py --ckp workdir\Unet-10\Unet-epoch_25.
 Change your own path to the config file, checkpoint path and image path.<br>
 checkpoint link：https://pan.baidu.com/s/1B5bJCJEMTQw6x9o7RR2T4Q?pwd=lgew <br>
 code：lgew
+or
+https://drive.google.com/drive/folders/19PmRTTZZ6NENiuQayKmIioHKggbZWQZZ?usp=drive_link
 
 ## Create your own project
 ### Custom your dataset
